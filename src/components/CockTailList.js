@@ -40,7 +40,7 @@ export default class CockTailList extends Component{
                 <h1>CockTailList</h1>
                 <div>
                     <label name='letter'>
-                    List Cocktails by Letter
+                    List Cocktails by Letter<br/>
                     <input name='letter' onChange={this.onChange}/>
                     </label>
                 </div>

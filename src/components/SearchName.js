@@ -40,7 +40,7 @@ export default class SearchName extends Component{
                 <h1>CockTailList</h1>
                 <div>
                     <label name='name'>
-                    Search Cocktails by Name
+                    Search Cocktails by Name<br/>
                     <input name='name' onChange={this.onChange}/>
                     </label>
                 </div>
